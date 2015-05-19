@@ -1,0 +1,20 @@
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Questionnaire.csproj.ResolveComReference.cache
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Мои документы\Regina\_STUDYING_\Копия WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\Questionnaire.csproj.ResolveComReference.cache
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Мои документы\Regina\_STUDYING_\Questionnaire\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
